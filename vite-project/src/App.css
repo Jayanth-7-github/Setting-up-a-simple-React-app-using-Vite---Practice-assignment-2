@@ -1,0 +1,39 @@
+*{
+  background-color: rgb(151, 98, 82);
+}
+
+
+
+.Box{
+  border: 2px solid black;
+  border-radius: 20px;
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  background-color: rgb(45, 25, 25);
+  font-size: 20px;
+ 
+}
+h1{
+  background-color: rgb(45, 25, 25);
+  color: whitesmoke;
+  position: absolute;
+  left: 30%;
+}
+#p1{
+  background-color: rgb(45, 25, 25);
+  color: whitesmoke;
+  position: absolute;
+  top: 40%;
+  left: 30%;
+}
+#p2{
+  background-color: rgb(45, 25, 25);
+  color: whitesmoke;
+  position: absolute;
+  top: 70%;
+  left: 30%;
+}
