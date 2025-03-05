@@ -37,3 +37,8 @@ h1{
   top: 70%;
   left: 30%;
 }
+h2{
+  position:absolute;
+  left:50%;
+  transform: translate(-50%);
+}

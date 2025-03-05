@@ -8,10 +8,11 @@ function App() {
 
   return (
     <>
+    <h2>Home Page</h2>
     <div className='Box'>
       <h1>K.Jayanth</h1>
       <p id='p1'>Phone:9188699659</p>
-      <p id='p2'>email:jdjdndnjn@gmail.com</p>
+      <p id='p2'>Email:jdjdndnjn@gmail.com</p>
 
     </div>
      
